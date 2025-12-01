@@ -1,0 +1,26 @@
+{
+  "name": "software-developer-lifecycle",
+  "version": "1.0.0",
+  "description": "I created this repo to be a presentation for my engineering team at BMO to outline some of engineering career ideas I wish I knew when first getting into the industry.",
+  "main": "index.js",
+  "scripts": {
+    "slides": "marp slides.md --preview",
+    "slides:html": "marp slides.md -o slides.html",
+    "slides:pdf": "marp slides.md -o slides.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmoncada08/software-developer-lifecycle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucasmoncada08/software-developer-lifecycle/issues"
+  },
+  "homepage": "https://github.com/lucasmoncada08/software-developer-lifecycle#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}

@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Logs
+npm-debug.log*
+
+# Build outputs
+dist/
+build/
+*.pdf
+*.pptx
+
+# Editor directories and files
+.vscode/*
