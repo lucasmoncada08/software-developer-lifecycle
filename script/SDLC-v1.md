@@ -74,6 +74,22 @@ Mix these up to optimize for long term professional growth.
 table
 
 ## Getting things done
+As a tech lead I always have good sense of which engineers get things done reliably. Every manager and lead has this idea in their head, and when an important project or feature comes up they look to these individuals, leading to higher visibility, more challenging tasks, accelerating your learning. Plus you will get the increased autonomy that comes with trust. So how can you do this?
+
+1. Focus on the most important piece of work. 
+- On our team there are always items to work on. Instead of being overwhelmed, ask yourself if you only got one thing done this week what would it be? What about one thing tomorrow? Make a habit of always completing this #1 priority and work with your lead/manager to ensure you have been accurately assessing this priority.
+2. Unblock yourself
+- Building software has many unforseen obstacles, like strange error messages that google/copilot does not help with. Couple tips here to get over this; 
+    a. Know when you are blocked, maybe 30mins to 1hr of no progress, admit it. Try rubber duckering your approach. Draw it out. Read some docs. Take a break and go for a walk. 
+    b. Second is get support to unblock yourself. Often this is just not having enough information. When you ask someone for help, make sure you make it as easy as possible to help, have your thoughts organized and drawn/written out, ask clarifying questions. But then to keep the trust with the individual helping, try to make sure you understand the issue and solution so you know how to resolve it next time. Keep a note somewhere called issues and resolutions if this is happening to you often. When Vidhya helps me solve something tricky, I try to probe his brain for how he found the clues if it is not clear to me.
+3. Break down the work
+- Try to understand the "why" you are working on something. How does this effect the end user?
+- Turn that into stories, then you can figure out the tasks to get that user story complete. If you are struggling with ambiguity/complexity break that down into subtasks.
+4. Seek mentors
+- You are on a team with some very smart individuals and lucky that they are all kind and helpful. Ask for 1:1s with them, try to understand how they got good at what they are good at, ask them for feedback/thoughts on something you are working on. I love learning what resources and experiences have helped my teammates like Kirill and Rob have learned from to have such great technical knowledge early in their career.
+5. Take the initiative
+- The most productive engineers I have worked with take on opportunities they see in front of them to learn and try things. I earned respect from my colleagues and execs when I joined BMO by quickly becoming the graph database expert. At fast growing and dynamic teams like our own, there are many opportunities to take this on. 
+- You can try, documenting unclear things, investigating new tools or frameworks, and talking with your manager about upcoming projects
 
 ## Coding
 
