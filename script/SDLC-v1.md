@@ -63,6 +63,24 @@ Your manager (in our case partially your tech lead) is the colleague who has the
 
 ## Pace Yourself
 Athletes pace themselves for peak performance. In a similar fashion, the "stretching, executing, and coasting" model is useful.
-- Stretching 
-- Executing
-- Coasting
+- Stretching; most fun for some time, learning and applying to challenges. Can cause burnout. (starting)
+- Executing; normal way of working, pull your weight and sometime go beyond it. Like doing something you're familiar with
+- Coasting; doing less and lower quality, typically temporary. More than a few days is counterproductive to the team and obvious to others.
+
+Mix these up to optimize for long term professional growth.
+
+# The Competent Software Developer
+## General Expectations
+table
+
+## Getting things done
+
+## Coding
+
+## Software Development
+
+## Tools of the Productive Dev
+1. Local development tools
+2. Frequently used tools
+3. Ways to iterate quickly/experiment
+
