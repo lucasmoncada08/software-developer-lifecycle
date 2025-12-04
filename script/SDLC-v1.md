@@ -92,8 +92,27 @@ As a tech lead I always have good sense of which engineers get things done relia
 - You can try, documenting unclear things, investigating new tools or frameworks, and talking with your manager about upcoming projects
 
 ## Coding
+Writing Code is still the core of software engineering. 
+
+## Practice Coding... A Lot!
+You want to be able to translate ideas into working code, the essential skill. Some main approaches you can take to get there are code regularly, learn a language in depth, and solve real world problems. 
+
+1. Code Regularly
+- You can read all you want about the specifics of coding, but as with any sports training, the biggest contributor to your progress is how much you practice. Coding daily is a great habit that will bring you from alright to much more comfortable. If you feel this is a weakness for you, it is worth the extra practice or reprioritizing of your work to ensure you are writing code for some large portion of the day. No real substitute for this.
+2. Code Review
+- Aim to get feedback on all the code you write, even if it is not required. These days it is as simple as asking copilot for a code review on your PR or probing it on specific decisions you made in your code. We have many talented devs on this team, and asking for direct feedback is a great way to improve. 
+3. Read about as much as you write
+- Reading code is great way to learn new things and better practices, in my view checking out someones code and trying to run it / improve it is a really awesome way to dig deep here. Reading open-source code is another amazing way of learning, try to find a open source project that you use or are interested in like React or Bun. You can check out the changes and/or resolved issues to make sense of what is happening and the feedback reviewers give.
 
 ## Software Development
+1. Become proficient in a language
+- Learn a language really well. You hit a new level of comprehension when you know the syntax, constructs, operators, best practices. Go under the hood for details like how memory work, how the code compiles, and what matters for performance. You can take the books approach to this or just be curious and ask what actually happens when you declare a function or find some tooling to peek under the hood like Clinic.js. It is often more effective for devs to go deep earlier in their career than broad.
+2. Be great at debugging
+- If you can debug quickly and efficiently, you can iterate and learn quicker. Often times it is about setting yourself up for success, or being Vidhya and having an encyclopedia of knowledge for finding bugs. Several times I realized that my code was written in a hard to debug way. Try to make smaller changes and test them often, whether that is setting up tests or being great at using a debugging tool like Rob. Whenever I get support one of the great devs on our team I try to observe how they debug and what they look for, try to learn from it rather than just happy your problem is solved. Also, the earlier in your dev cycle you can test, the better, do not deploy to AWS to test non-integration code unless you need to.
+3. Refactoring
+- An often overlooked part of coding, refactoring can help you adjust the code so it evolves over time due to the new information and requirements. Try to refactor your code every time you write it, similar to that red, green, refactor loop. Take note of items other devs find confusing in your code and try to adjust with naming or comments accordingly. 
+4. Testing
+Reliable engineers test their code before requesting a code review or committing it, whether automated or manual. They care about edge cases and potential failure scenarios.
 
 ## Tools of the Productive Dev
 1. Local development tools
