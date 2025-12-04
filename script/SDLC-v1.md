@@ -115,7 +115,15 @@ You want to be able to translate ideas into working code, the essential skill. S
 Reliable engineers test their code before requesting a code review or committing it, whether automated or manual. They care about edge cases and potential failure scenarios.
 
 ## Tools of the Productive Dev
-1. Local development tools
-2. Frequently used tools
+1. Physical tools
+- One item for I have been actively trying to improve over the last little while is my ability to do things faster on my device. For instance typing 70wpm+ and being able to easily use your code editor to run and read code allows you to try your ideas out quicker. Don't let this be the bottleneck for you.
+2. Local development tools
+- Be able to quickly compile/run your code to check for issue and run specific tests to achieve a quick output cycle so you can stay more "in the zone". This is another one where you can learn from watching other talented devs on our team.
+- Be able to use the command line/terminal and common tools like git well.
+- Finally, experiment with AI tools. While some are bigger fans than others, try working in small slices and getting it to automate things for you where you know what you want to do but want copilot to do it faster. This deserves its own presentation.
 3. Ways to iterate quickly/experiment
+- You need to have a good understanding of your projects existing code and what it does. Figure this out by having someone walk you through the structure and/or draw out the modules and how they connect
+- Understand how to debug the CI/CD. This requires having a baseline knowledge of the environment you are deploying to and where to look when things go wrong (CDK Deploy Step, Cloudformation, CodeDeploy logs). There are many things to understand here, like what you have access to do, what logs you should check, and what dashboards to look at for metrics.
 
+## Summary
+Competent Software Developers get things done reliably. The single best advice for this level is practice, practice, practice. Spend lots of time coding and learning how to improve your coding quality and processes from other developers. Laying this foundation will pay dividends for your career beyond this point.
